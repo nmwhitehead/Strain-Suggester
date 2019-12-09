@@ -10,7 +10,7 @@ While the Gallup poll does emphasize that this is the percent of people that __h
 
 ## Legalization is On Its Way
 
-Marijuana is currently well on its way towards legalization in the United States. 10 states and The District of Columbia have legalized it recreationally, more than half of the states in the country have legalized in for medical purposes, and according to a [Pew Research Center survey](https://www.pewresearch.org/fact-tank/2019/11/14/americans-support-marijuana-legalization/) taken in September of this year, public support for legalization has reached 67% amount adults. The House Judiciary Committee has even approved legalizing it Federally within the last month, though this means very little about its actual legalization with the current Senate.
+Marijuana is currently well on its way towards legalization in the United States. 10 states and The District of Columbia have legalized it recreationally, more than half of the states in the country have legalized in for medical purposes, and according to a [Pew Research Center survey](https://www.pewresearch.org/fact-tank/2019/11/14/americans-support-marijuana-legalization/) taken in September of this year, public support for legalization has reached 67% amount adults. The House Judiciary Committee has even approved legalizing it Federally within the last month (November 2019), though this means very little about its actual legalization with the current Senate (am hoping to look stupid in hindsight).
 
 <img src="Photos/Support_For_Marijuana.png" link="https://www.pewresearch.org/wp-content/uploads/2019/11/FT_19.11.05_MarijuanaUpdate_feature.png" style="width: 900px;"/>
 
