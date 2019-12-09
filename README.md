@@ -2,7 +2,7 @@
 
 Marijuana is steadily gaining popularity in the United States. Admitted usage of the mind-altering drug has been [increasing steadily since the 1969](https://news.gallup.com/poll/214250/say-tried-marijuana.aspx), but really started to take off in the mid-2010s. The reasons for this vary from medical purposes to its image as a safer version of alcohol to the simple fact that it's none the governments business to tell us we shouldn't use it.
 
-According to a 2017 Gallup poll, admitted usage had reached 45% of American adults.
+According to a 2017 Gallup poll, 45% of American adults had admitted to use of the drug.
 
 <img src="Photos/Marijuana_Use.png" link="https://content.gallup.com/origin/gallupinc/GallupSpaces/Production/Cms/POLL/euhv12de00akfq01s7mlkg.png" style="width: 750px;"/>
 
